@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.newcoder.mavendemo1.AppTest" time="0.012" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="E:\workproject\mavendemo1\target\test-classes;E:\workproject\mavendemo1\target\classes;C:\Users\Hypo\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Hypo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\Program Files\Java\jdk1.8.0_351\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\Hypo\AppData\Local\Temp\surefire8064902410622770213\surefirebooter5326403173093038813.jar C:\Users\Hypo\AppData\Local\Temp\surefire8064902410622770213 2023-02-27T14-41-48_686-jvmRun1 surefire1400712013689801689tmp surefire_07376940160303349821tmp"/>
+    <property name="surefire.test.class.path" value="E:\workproject\mavendemo1\target\test-classes;E:\workproject\mavendemo1\target\classes;C:\Users\Hypo\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Hypo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Hypo"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\Program Files\Java\jdk1.8.0_351\jre"/>
+    <property name="basedir" value="E:\workproject\mavendemo1"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Hypo\AppData\Local\Temp\surefire8064902410622770213\surefirebooter5326403173093038813.jar"/>
+    <property name="sun.boot.class.path" value="D:\Program Files\Java\jdk1.8.0_351\jre\lib\resources.jar;D:\Program Files\Java\jdk1.8.0_351\jre\lib\rt.jar;D:\Program Files\Java\jdk1.8.0_351\jre\lib\jsse.jar;D:\Program Files\Java\jdk1.8.0_351\jre\lib\jce.jar;D:\Program Files\Java\jdk1.8.0_351\jre\lib\charsets.jar;D:\Program Files\Java\jdk1.8.0_351\jre\lib\jfr.jar;D:\Program Files\Java\jdk1.8.0_351\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_351-b10"/>
+    <property name="user.name" value="Hypo"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="D:\Program Files\Java\jdk1.8.0_351\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Hypo\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Hypo\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_351"/>
+    <property name="user.dir" value="E:\workproject\mavendemo1"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\Program Files\Java\jdk1.8.0_351\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\AnacondaProgram\Anaconda3;D:\AnacondaProgram\Anaconda3\Library\mingw-w64\bin;D:\AnacondaProgram\Anaconda3\Library\usr\bin;D:\AnacondaProgram\Anaconda3\Library\bin;D:\AnacondaProgram\Anaconda3\Scripts;D:\AnacondaProgram\Anaconda3\bin;D:\AnacondaProgram\Anaconda3\condabin;D:\AnacondaProgram\Anaconda3;D:\AnacondaProgram\Anaconda3\Library\mingw-w64\bin;D:\AnacondaProgram\Anaconda3\Library\usr\bin;D:\AnacondaProgram\Anaconda3\Library\bin;D:\AnacondaProgram\Anaconda3\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;D:\Program Files (x86)\Xftp 7;D:\Program Files (x86)\Xshell 7;D:\Program Files\Java\jdk1.8.0_351\bin;C:\Program Files (x86)\ZeroTier\One;E:\workproject\apache-maven-3.9.0\bin;D:\Program Files\Python\Python37\Scripts;D:\Program Files\Python\Python37;C:\Users\Hypo\AppData\Local\Microsoft\WindowsApps;.;D:\Program Files\JetBrains\PyCharm 2022.2.3\bin;.;D:\Program Files\JetBrains\IntelliJ IDEA 2022.2.3\bin;.;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.351-b10"/>
+    <property name="java.specification.maintenance.version" value="4"/>
+    <property name="java.ext.dirs" value="D:\Program Files\Java\jdk1.8.0_351\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.newcoder.mavendemo1.AppTest" time="0.001"/>
+</testsuite>
